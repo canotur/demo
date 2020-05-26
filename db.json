@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+       {"id":1, "name":"Kuru Yufka", ""categoryId":1, "quantityPerUnit":"10 adet", "unitPrice":10, "unitsInStock":500},
+     {"id":1, "name":"Üçgen Yufka", ""categoryId":1, "quantityPerUnit":"10 adet", "unitPrice":10, "unitsInStock":400},
+     {"id":1, "name":"Erişte", ""categoryId":1, "quantityPerUnit":"5 kilo", "unitPrice":10, "unitsInStock":300},
+     {"id":1, "name":"Siroz", ""categoryId":1, "quantityPerUnit":"1 kilo", "unitPrice":10, "unitsInStock":200},
+     {"id":1, "name":"Yalancı Mantı", ""categoryId":1, "quantityPerUnit":"5 kilo", "unitPrice":10, "unitsInStock":100}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
